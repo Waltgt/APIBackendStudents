@@ -1,0 +1,7 @@
+Flask==3.0.3
+Flask-SQLAlchemy==3.1.1
+Flask-Marshmallow==1.2.1
+marshmallow-sqlalchemy<0.31
+marshmallow<4
+PyMySQL==1.1.0
+python-dotenv==1.0.1
